@@ -80,49 +80,15 @@ img {
   padding-left: 170px;
   padding-top: 15px; 
 }
-.left-cont {
-  text-align: center;
-}
 .menu-right-img {
     padding: 15px 0 0 100px;
 }
 .menu {
   padding-top: 50px;
-}
-.menu-bread-basket {
-  padding-top: 30px;
-  padding-right: 350px;
-}
-.menu-comment {
-  padding-top: 12px;
-  padding-right: 98px;
+  text-align: center;
 }
 .menu-comment-ccc {
   color: #6a6a6a;
-}
-.menu-honey-almond {
-  padding-top: 20px;
-  padding-right: 173px;
-}
-.honey-almond-comment {
-  padding-top: 12px;
-  padding-right: 18px;
-}
-.menu-belgian-waffle {
-  padding-top: 20px;
-  padding-right: 340px;
-}
-.belgian-waffle-comment {
-  padding-top: 12px;
-  padding-right: 166px;
-}
-.menu-blueberry-pancakes {
-  padding-top: 20px;
-  padding-right: 296px;
-}
-.blueberry-pancakes-comment {
-  padding-top: 12px;
-  padding-right: 188px;
 }
 .for-contact {
   padding-top: 85px;
