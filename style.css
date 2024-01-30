@@ -140,6 +140,9 @@ img {
   display: flex;
   justify-content: center;
 }
+.left-cont h3 {
+  margin-top: 20px;
+}
 @media only screen and (max-width:600px) {
     .nav-right {
       display: none;
